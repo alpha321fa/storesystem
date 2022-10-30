@@ -1,0 +1,2 @@
+Best selling item is ('Call Of Duty: Cold War',) with (0,) units sold.
+Worst selling item is ('Call Of Duty: Cold War',) with (0,) units sold.

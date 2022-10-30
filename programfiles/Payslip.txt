@@ -1,0 +1,8 @@
+Digital Funhouse Payslip
+05/05/2021
+Will Smith
+Hours Worked: 12.5
+Hourly Rate: 0
+Total Earnings: 0.0
+Tax Deductions: 0.0
+Total Pay: 0.0
